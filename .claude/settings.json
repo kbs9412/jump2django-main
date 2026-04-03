@@ -1,4 +1,5 @@
 {
+  "disabledMcpjsonServers": ["github"],
   "hooks": {
     "SessionStart": [
       {
